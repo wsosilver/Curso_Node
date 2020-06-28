@@ -1,0 +1,8 @@
+
+Metodos: index, Show, update, store, destroy
+
+index: listagem
+store: criar
+show: listagem unica
+update: alterar algum registro
+destroy: excluir registro
